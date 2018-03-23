@@ -1,18 +1,11 @@
-﻿<Properties StartupConfiguration="{A6E17811-0946-453C-9EE7-3D9E5456971A}|Default">
+﻿<Properties StartupConfiguration="{0DC46A3F-FEBF-49F6-B085-60414865C1C4}|Default">
   <MonoDevelop.Ide.ItemProperties.Weather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E989EAF8-9416-480F-965F-C1698B6D4D35" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
-    <Files>
-      <File FileName="Droid/Properties/AndroidManifest.xml" Line="4" Column="78" />
-      <File FileName="Weather/Views/MapScreen.xaml.cs" Line="53" Column="15" />
-      <File FileName="Weather/Views/TrackLocation.xaml" Line="1" Column="1" />
-      <File FileName="../../../Gourav/DFS/DFS/DFS/Views/LoginPage.xaml" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Weather.Droid PreferredExecutionTarget="Android.Pixel_XL_API_25" />
+  <MonoDevelop.Ide.ItemProperties.Weather.Droid PreferredExecutionTarget="Android.emulator-5554" />
 </Properties>
